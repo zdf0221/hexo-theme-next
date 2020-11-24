@@ -361,7 +361,7 @@ codeblock:
   prism:
     light: prism
     dark: prism-dark
-  # Add copy button on codeblock
+  # Add copy button on codeblock (only supported for pages served over HTTPS)
   copy_button:
     enable: false
     # Available values: default | flat | mac
